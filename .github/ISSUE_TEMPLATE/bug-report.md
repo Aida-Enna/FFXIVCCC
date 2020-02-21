@@ -1,6 +1,8 @@
 ---
 name: Bug Report
-about: lol
+about: "**If FFXIV was updated within the past few days, please make sure no issues
+  exist for your problem. Updates are very likely to break the program, and it's likely
+  we're already aware of it. Thanks!**"
 title: ''
 labels: ''
 assignees: ''
