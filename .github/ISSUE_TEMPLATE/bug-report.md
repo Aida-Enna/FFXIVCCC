@@ -1,7 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug/issue
-test
+about: **If FFXIV was updated within the past few days, please make sure no issues exist for your problem. Updates are very likely to break the program, and it's likely we're already aware of it. Thank you!**
 title: ''
 labels: ''
 assignees: ''
