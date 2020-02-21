@@ -1,6 +1,7 @@
 ---
 name: Bug Report
 about: Report a bug/issue
+test
 title: ''
 labels: ''
 assignees: ''
